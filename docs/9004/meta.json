@@ -9,9 +9,10 @@
  "orientation": "landscape",
  "freidok": "166030",
  "doi": "10.6094/UNIFR/166030",
- "pdf": "https://globalchanges.github.io/Invisible2020/900/4/poster.pdf",
+ "pdf": "https://globalchanges.github.io/Invisible2020/9004/poster.pdf",
  "thumbnail": "https://globalchanges.github.io/Invisible2020/9004/thumbnail.png",
  "icon": "https://globalchanges.github.io/Invisible2020/9004/icon.png",
+ "tiles": "https://globalchanges.github.io/Invisible2020/9004/tiles.dzi",
  "authors": [
    { 
      "firstname": "Janne",
